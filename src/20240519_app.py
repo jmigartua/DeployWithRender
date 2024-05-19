@@ -22,6 +22,7 @@ rc('font', family='serif')
 matplotlib.rcParams['text.latex.preamble'] = r'\usepackage{amsmath}'
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 app.layout = dbc.Container([
     dcc.Store(id='store-column-defs', data=[]),
