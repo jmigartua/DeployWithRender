@@ -4,5 +4,6 @@ pandas
 numpy
 matplotlib
 dash_bootstrap_components
+gunicorn
 
 
