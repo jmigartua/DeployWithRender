@@ -1,0 +1,10 @@
+streamlit
+dash
+dash_ag_grid
+pandas
+numpy
+plotly
+matplotlib
+dash_bootstrap_components
+
+
