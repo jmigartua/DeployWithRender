@@ -3,7 +3,7 @@ dash_ag_grid
 pandas
 numpy
 matplotlib
+base64
+io
 dash_bootstrap_components
 gunicorn
-
-
